@@ -61,3 +61,12 @@ Mã nguồn phục vụ cho quá trình khởi tạo, xử lý dữ liệu và h
     ```bash
     python run_detect.py
     ```
+
+
+## Video minh họa
+
+<video width="100%" controls>
+  <source src="doc/project_gau-gau-gau.mp4" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ thẻ video.
+</video>
+
