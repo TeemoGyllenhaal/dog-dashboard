@@ -65,5 +65,5 @@ Mã nguồn phục vụ cho quá trình khởi tạo, xử lý dữ liệu và h
 
 ## Video minh họa
 
-![Video minh họa](./doc/project_gau-gau-gau.mp4)
+https://github.com/TeemoGyllenhaal/dog-dashboard/raw/main/doc/project_gau_gau.mp4
 
