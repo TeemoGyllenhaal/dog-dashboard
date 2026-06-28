@@ -59,6 +59,7 @@ Mã nguồn phục vụ cho quá trình khởi tạo, xử lý dữ liệu và h
 - **Terminal 2 (Khởi chạy Script Nhận diện AI):**
 
     ```bash
+    cd src
     python run_detect.py
     ```
 
